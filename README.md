@@ -21,10 +21,10 @@ The database, adashi_staging.sql, was provided by Cowrywise. It includes four ta
 MySQL: It ia an open-source Relational Database Management System (RDBMS) that utilises Structured Query Language (SQL) for database operations.
 
 #### Addressed Questions
-1. Who are the customers that both a savings and an investment plan and how many do they have?.
-2. What is the average number of transactions per customer per month and how frequent are these transactions?
-3. Find all active accounts with no transactions in the last 1 year (365 days)
-4. How long has each user neen a user in month? What are their total transacton and estimated CLV?
+1. Which customers have both a savings and an investment plan, and how many of each do they possess?
+2. What is the average number of transactions of each customers per month, and how frequently do these transactions occur?
+3. Which active accounts have not had any transactions in the past year (365 days)?
+4. How long has each customer been with us (in months), what is their total transaction, and what is their estimated Customer Lifetime Value (CLV)?
 
 #### Data Loading
 The database was directing loading into MySQL using Query tool.
