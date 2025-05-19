@@ -18,7 +18,7 @@ The database, adashi_staging.sql, was provided by Cowrywise. It includes four ta
 4. withdrawals_withdrawal:  contain records of withdrawal transactions
 
 #### Tools Used
-MySQL:
+MySQL: It ia an open-source Relational Database Management System (RDBMS) that utilises Structured Query Language (SQL) for database operations.
 
 #### Addressed Questions
 1. Who are the customers that both a savings and an investment plan and how many do they have?.
@@ -38,16 +38,16 @@ Obi David stands out with 8,812 savings transactions, 1 investment plan, and a t
 - 110 users exhibit high transaction frequency (average of 32.83).
 - 160 users fall into the medium frequency category (average of 4.93).
 - 601 users have low transaction frequency (average of 1.45).
-This analysis can be seen in [Assessment_Q2.sql](./Assessment_Q2.sql)
+This analysis can be seen here [Assessment_Q2.sql](./Assessment_Q2.sql)
 
 #### Account Inactivity Alert
 - All inactive plans exceeding 365 days are savings plans.
 - The longest inactive plan spans 3,165 days (~8.7 years). 
-This can be seen in [Assessment_Q3.sql](./Assessment_Q3.sql)
+This can be seen here [Assessment_Q3.sql](./Assessment_Q3.sql)
 
 #### Customer Lifetime Value (CLV) Estimation
 Edward Popoola has the highest CLV at ₦6,350.53. 
-This can be seen in [Assessment_Q4.sql](./Assessment_Q4.sql)
+This can be seen here [Assessment_Q4.sql](./Assessment_Q4.sql)
 
 ### Problems Encountered
 1. JOIN Statement Errors
